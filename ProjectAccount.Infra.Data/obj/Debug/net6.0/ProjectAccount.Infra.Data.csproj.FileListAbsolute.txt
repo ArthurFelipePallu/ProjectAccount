@@ -1,0 +1,12 @@
+C:\Users\Arthut Pallu\Documents\Estudos\DotNet\Project Account\ProjectAccount.Infra.Data\bin\Debug\net6.0\ProjectAccount.Infra.Data.deps.json
+C:\Users\Arthut Pallu\Documents\Estudos\DotNet\Project Account\ProjectAccount.Infra.Data\bin\Debug\net6.0\ProjectAccount.Infra.Data.dll
+C:\Users\Arthut Pallu\Documents\Estudos\DotNet\Project Account\ProjectAccount.Infra.Data\bin\Debug\net6.0\ref\ProjectAccount.Infra.Data.dll
+C:\Users\Arthut Pallu\Documents\Estudos\DotNet\Project Account\ProjectAccount.Infra.Data\bin\Debug\net6.0\ProjectAccount.Infra.Data.pdb
+C:\Users\Arthut Pallu\Documents\Estudos\DotNet\Project Account\ProjectAccount.Infra.Data\obj\Debug\net6.0\ProjectAccount.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Arthut Pallu\Documents\Estudos\DotNet\Project Account\ProjectAccount.Infra.Data\obj\Debug\net6.0\ProjectAccount.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthut Pallu\Documents\Estudos\DotNet\Project Account\ProjectAccount.Infra.Data\obj\Debug\net6.0\ProjectAccount.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Arthut Pallu\Documents\Estudos\DotNet\Project Account\ProjectAccount.Infra.Data\obj\Debug\net6.0\ProjectAccount.Infra.Data.AssemblyInfo.cs
+C:\Users\Arthut Pallu\Documents\Estudos\DotNet\Project Account\ProjectAccount.Infra.Data\obj\Debug\net6.0\ProjectAccount.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Arthut Pallu\Documents\Estudos\DotNet\Project Account\ProjectAccount.Infra.Data\obj\Debug\net6.0\ProjectAccount.Infra.Data.dll
+C:\Users\Arthut Pallu\Documents\Estudos\DotNet\Project Account\ProjectAccount.Infra.Data\obj\Debug\net6.0\ref\ProjectAccount.Infra.Data.dll
+C:\Users\Arthut Pallu\Documents\Estudos\DotNet\Project Account\ProjectAccount.Infra.Data\obj\Debug\net6.0\ProjectAccount.Infra.Data.pdb
